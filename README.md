@@ -7,11 +7,13 @@ This is a collection of projects assigned by my professors in my object oriented
 <br />
 
 <h2>Projects attached</h2>
+
 - <b>Recursion and recursion tests</b>
 - <b>Classes of objects implementation</b>
 - <b>Object oriented programming using linked lists data structures</b>
 - <b>Secret of Life game based around file based input and class management</b>
-<br />
+
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>VsCode</b> 
